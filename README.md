@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
+I'm Daniel, a passionate software developer with a focus on the MERN stack and C# .Net. My goal is to become a software engineer who creates innovative solutions with all kinds of software. I am also experienced in cybersecurity and ethical hacking.
 
-<!--
-**danielgonzalez22/danielgonzalez22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+//Web Page for Arch Linux Installation Guide (a comprehensive guide to manually install Arch Linux on any computer)
 
-Here are some ideas to get you started:
+//Events Web Application (This web application allows users to interact with events and places, and leave comments. It's being built using the MERN stack, and extra libraries for security and robustness)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Restaurant Billing System Desktop App (a desktop application for managing billing in a restaurant, made with .Net ecosystem)
+- 🌱 I’m currently learning:
+  AWS, Docker, Kubernetes, Networking, and backend with .Net
+  
+- 📫 How to reach me:
+  kavellid63@gmail.com

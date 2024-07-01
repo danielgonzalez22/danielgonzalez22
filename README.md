@@ -7,7 +7,8 @@ I'm Daniel, a passionate software developer with a focus on the MERN stack and C
 
 //Events Web Application (This web application allows users to interact with events and places, and leave comments. It's being built using the MERN stack, and extra libraries for security and robustness)
 
-Restaurant Billing System Desktop App (a desktop application for managing billing in a restaurant, made with .Net ecosystem)
+//Restaurant Billing System Desktop App (a desktop application for managing billing in a restaurant, made with .Net ecosystem)
+
 - 🌱 I’m currently learning:
   AWS, Docker, Kubernetes, Networking, and backend with .Net
   
